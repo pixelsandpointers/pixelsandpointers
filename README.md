@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+UX Intern wearing many hats. Interested in Human-Machine collaboration, Deep (Reinforcement) Learning, and Data Physicalization/Visualization.
 <!--
 **benjaminbeilharz/benjaminbeilharz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
