@@ -1,7 +1,14 @@
-### Hi there 👋
+![welcome-bubble](https://user-images.githubusercontent.com/38283585/130283592-cc41a95c-07cb-4cef-bf18-53ce586c4607.png)
 
 
-UX Intern wearing many hats. Interested in Human-Machine collaboration, Deep (Reinforcement) Learning, and Data Physicalization/Visualization.
+**He/They**::Data Science enabled UX Intern currently working at SAP  
+and writing my Bachelor Thesis in Computational Linguistics at Heidelberg University.  
+I am interested in story-yelling with data visualizations; AI×Media art, generative art, and computational design.  
+我也會說中文（也會看都繁體或簡體中文）。
+
+_(this is a whole wip)_  
+不好意思，目前我覺得這個段做不完。我請你等一下，我真的想繼續寫，但是現在我沒有時間。
+
 <!--
 **benjaminbeilharz/benjaminbeilharz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
