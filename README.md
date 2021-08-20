@@ -1,4 +1,5 @@
-![welcome-bubble](https://user-images.githubusercontent.com/38283585/130283592-cc41a95c-07cb-4cef-bf18-53ce586c4607.png)
+![welcome-bubble](https://user-images.githubusercontent.com/38283585/130285518-4667d2ea-a22c-4b9c-b808-37d2fe439a39.png)
+
 
 
 **He/They**::Data Science enabled UX Intern currently working at SAP  
