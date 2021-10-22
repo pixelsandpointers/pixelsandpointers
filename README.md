@@ -3,20 +3,23 @@
 
 
 **He/They**::Data Science enabled UX Intern currently working at SAP  
-and writing my Bachelor Thesis in Computational Linguistics at Heidelberg University.  
-I am interested in story-yelling with data visualizations; AI×Media art, generative art, and computational design.  
+  
+I am interested in social intelligence and creativity in neural networks. Occasionally I like story-yelling with visualizations; enjoy domains where machine learning and contemporary art come together and all things computational art and design.
 我也會說中文（也會看都繁體或簡體中文）。
 
 _(this is a whole wip)_  
 不好意思，目前我覺得這個段做不完。我請你等一下，我真的想繼續寫，但是現在我沒有時間。
+
+- 🌱 I’m currently learning the whole JAX stack. It seems as it gives me the opportunity to learn more about the underlying principles (also faster computation saves energy right?) 🎉
+- 🔭 I’m currently working on my bachelor thesis which will be an investigation on how neural networks are capable of learning empathy from social-interaction and moral commonsense.
 
 <!--
 **benjaminbeilharz/benjaminbeilharz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
