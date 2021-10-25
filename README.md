@@ -4,7 +4,7 @@
 
 **He/They**::Data Science enabled UX Intern currently working at SAP  
   
-I am interested in social intelligence and creativity in neural networks. Occasionally I like story-yelling with visualizations; enjoy domains where machine learning and contemporary art come together and all things computational art and design.
+I am interested in emotional intelligence and creativity in neural networks. Occasionally I like story-yelling with visualizations; I enjoy the intersection where machine learning and contemporary art come together and all things computational art and design.
 我也會說中文（也會看都繁體或簡體中文）。
 
 _(this is a whole wip)_  
