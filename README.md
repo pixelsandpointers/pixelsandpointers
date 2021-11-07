@@ -10,8 +10,8 @@ I am interested in emotional intelligence and creativity in neural networks. Occ
 _(this is a whole wip)_  
 不好意思，目前我覺得這個段做不完。我請你等一下，我真的想繼續寫，但是現在我沒有時間。
 
-- 🌱 I’m currently learning the JAX stack. It seems as it gives me the opportunity to learn more about the underlying principles (also faster computation saves energy right?) 🎉
-- 🔭 I’m currently working on my bachelor thesis which will be an investigation on how neural networks are capable of learning empathy from social-interaction and moral commonsense.
+- 🌱 I’m currently learning the JAX stack and 🤗 . It seems as it gives me the opportunity to learn more about the underlying principles (also faster computation saves energy right?) 🎉
+- 🔭 I’m currently working on my bachelor thesis which will be an investigation on how neural networks are capable of learning empathy from social-interaction and moral commonsense and express it in a dialogue setting, while being capable of looking forward or backward in the conversation history.
 
 <!--
 **benjaminbeilharz/benjaminbeilharz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
