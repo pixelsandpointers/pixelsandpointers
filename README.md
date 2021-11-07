@@ -2,7 +2,7 @@
 
 
 
-**He/They**::Data Science enabled UX Intern currently working at SAP  
+**He/They**::NLP student turned to UX Intern currently working at SAP to learn more about human-centered technology.  
   
 I am interested in emotional intelligence and creativity in neural networks. Occasionally I like story-yelling with visualizations; I enjoy the intersection where machine learning and contemporary art come together and all things computational art and design.
 我也會說中文（也會看都繁體或簡體中文）。
