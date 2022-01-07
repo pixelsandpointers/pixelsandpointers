@@ -2,7 +2,7 @@
 
 **He/They**::Computational Linguistics undergrad at Heidelberg University, currently writing his thesis with Prof. Anette Frank advising me. The title of my thesis is: *Be Constructive, Helpful and Empathetic: Towards Situated Empathic Dialogue Generation Grounded in Social and Moral Commonsense Knowledge*
 
-My research interests can be found at the intersection of Language/Speech and Cognitive Science, where I am particullarly interested in:
+My research interests can be found at the intersection of Language/Speech and Cognitive Science, where I am particularly interested in:
 - AI for Social Good
 - Commonsense Reasoning
 - Speech Recognition
