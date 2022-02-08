@@ -5,17 +5,16 @@
 My research interests can be found at the intersection of Language/Speech and Cognitive Science, where I am particularly interested in:
 - AI for Social Good
 - Commonsense Reasoning
-- Speech Recognition
-- Natural Language Generation
-- Transfer Learning
-- Machine Cognition
+- Perception
+- Reinforcement Learning
+- Generative Networks
 
 我也會說中文（也會看都繁體或簡體中文）。
 
 _(this is a whole wip)_  
 不好意思，目前我覺得這個段做不完。我請你等一下，我真的想繼續寫，但是現在我沒有時間。
 
-- 🌱 I’m currently learning the JAX stack, 🤗 ecosystem and Rust-Python FFI
+- 🌱 I’m currently learning the JAX stack and the 🤗 ecosystem
 - 🔭 I’m currently working on my bachelor thesis which will be an investigation on how neural networks are capable of speaking empathetically, grounded in moral and norm commonsense and express it in a dialogue setting
 
 <!--
