@@ -11,7 +11,7 @@ My research interests can be found at the intersection of Machine Learning and C
 - Perception
 - Emotion and Creativity
 - Commonsense Knowledge and Reasoning
-- Emodied AI
+- Embodied AI
 
 
 我也會說中文（也會看都繁體或簡體中文）。
