@@ -11,6 +11,7 @@ My research interests can be found at the intersection of Machine Learning and C
 - Perception
 - Emotion and Creativity
 - Commonsense Knowledge and Reasoning
+- Emodied AI
 
 
 我也會說中文（也會看都繁體或簡體中文）。
@@ -18,7 +19,11 @@ My research interests can be found at the intersection of Machine Learning and C
 _(this is a whole wip)_  
 不好意思，目前我覺得這個段做不完。我請你等一下，我真的想繼續寫，但是現在我沒有時間。
 
-- 🌱 I’m currently learning the JAX stack, C++ (in depth as far as possible), how to write a custom cuda extension to PyTorch
+🌱 I’m currently learning:
+- the JAX stack
+- C++
+- how to write a custom cuda extension for PyTorch
+- how to create decision-making environments in game engines for multi-agent reinforcement learning
 
 <!--
 **benjaminbeilharz/benjaminbeilharz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
