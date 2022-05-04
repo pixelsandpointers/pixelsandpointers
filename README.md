@@ -23,7 +23,7 @@ _(this is a whole wip)_
 - the JAX stack
 - C++
 - how to write a custom cuda extension for PyTorch
-- how to create decision-making environments in game engines for multi-agent reinforcement learning
+- Unreal Engine/Unity
 
 <!--
 **benjaminbeilharz/benjaminbeilharz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
