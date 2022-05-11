@@ -5,13 +5,10 @@
 My research interests can be found at the intersection of Machine Learning and Cognitive Science, where I am particularly interested in:
 - AI for Social Good
 - Human-Machine Collaboration (interactive systems)
-- Reinforcement Learning (multi-agent, etc.)
-- Game Theory
-- Decision Making
-- Perception
-- Emotion and Creativity
+- Reinforcement Learning (multi-agent, game theory, planning, ...)
+- Multimodal Machine Learning and Perception
 - Commonsense Knowledge and Reasoning
-- Embodied AI
+- Generative Models
 
 
 我也會說中文（也會看都繁體或簡體中文）。
