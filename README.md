@@ -18,9 +18,8 @@ _(this is a whole wip)_
 
 🌱 I’m currently learning:
 - the JAX stack
-- C++
-- how to write a custom cuda extension for PyTorch
-- Unreal Engine/Unity
+- C++ (for Unreal and RL Environment creation)
+- how to write a custom cuda extensions
 
 <!--
 **benjaminbeilharz/benjaminbeilharz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,6 +32,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
