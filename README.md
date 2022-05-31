@@ -4,10 +4,9 @@
 
 My research interests can be found at the intersection of Machine Learning and Cognitive Science, where I am particularly interested in:
 - AI for Social Good
-- Human-Machine Collaboration (interactive systems)
-- Reinforcement Learning (multi-agent, game theory, planning, ...)
-- Multimodal Machine Learning and Perception
+- Multi Agent Reinforcement Learning and Game Theory
 - Commonsense Knowledge and Reasoning
+- Multimodal Machine Learning and Perception
 - Generative Models
 
 
@@ -18,8 +17,7 @@ _(this is a whole wip)_
 
 🌱 I’m currently learning:
 - the JAX stack
-- C++ (for Unreal and RL Environment creation)
-- how to write a custom cuda extensions
+- C++ (RL Environment creation /w Unreal)
 
 <!--
 **benjaminbeilharz/benjaminbeilharz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
