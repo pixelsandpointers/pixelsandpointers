@@ -2,12 +2,19 @@
 
 **He/They**::BA Computational Linguistics@Heidelberg University. MSc Cognitive Science@Technical University Darmstadt
 
-My research interests can be found at the intersection of Machine Learning and Cognitive Science, where I am particularly interested in:
-- AI for Social Good
-- (Moral & Social) Commonsense Knowledge and Reasoning
-- Affective Computing
-- Multi Agent Reinforcement Learning
+I am currently a 🤗 Student Ambassador for TU Darmstadt and Heidelberg University. If you happen to be interested in learning more about the 🤗 ecosystem , need a demo or a tutorial, hit me up via ✉️ or Discord (gdaythisisben#5902).
 
+My research interests can be found at the intersection of Machine Learning and Cognitive Science, where I am particularly interested in:
+- AI for Social Good & Health
+- (Moral & Social) Commonsense Knowledge and Reasoning
+- Affective/Physiological Computing
+- Multi Agent Reinforcement Learning
+- (On-Device Learning)
+
+Apart from research I am also interested in:
+- Development for Apple's platforms
+- Data Viz
+- Illustration and new experiences via code
 
 我也會說中文（也會看都繁體或簡體中文）。
 
@@ -16,7 +23,10 @@ _(this is a whole wip)_
 
 🌱 I’m currently learning:
 - the JAX stack
-- C++ (RL Environment creation /w Unreal)
+- Training on constrained computational resources, i.e. mobile devices
+- Signal Processing & Signal Detection Theory
+
+💬 Languages I'm speaking and/or learning: 🇩🇪 🇬🇧 🇨🇳 🇹🇼 🇪🇸 / 🇮🇹 
 
 <!--
 **benjaminbeilharz/benjaminbeilharz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
