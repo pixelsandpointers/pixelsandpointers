@@ -5,16 +5,20 @@
 I am currently a 🤗 Student Ambassador for TU Darmstadt and Heidelberg University. If you happen to be interested in learning more about the 🤗 ecosystem , need a demo or a tutorial, hit me up via ✉️ or Discord (gdaythisisben#5902).
 
 My research interests can be found at the intersection of Machine Learning and Cognitive Science, where I am particularly interested in:
-- AI for Social Good & Health
-- (Moral & Social) Commonsense Knowledge and Reasoning
-- Affective/Physiological Computing
-- Multi Agent Reinforcement Learning
-- (On-Device Learning)
-
-Apart from research I am also interested in:
-- Development for Apple's platforms
-- Data Viz
-- Illustration and new experiences via code
+- Cognition:
+  - How do we humans plan an activity and approach their goal?
+  - How do we learn concepts and be able to abstract these to take on new tasks?
+  - How can we learn a model of the world?
+  - Reverse engineering the mind
+- Common Sense:
+  - How can we leverage multiple senses to create the dark matter of knowledge (implicit knowledge and behaviour)?
+  - Social learning, i.e. morals, ethics and game theory
+- Creativity:
+  - How can a machine assist in creative and artistic tasks?
+- Machine Learning:
+  - Multimodal Machine Learning
+  - Reinforcement Learning, e.g. (cooperative) multi-agent, hierarchical, and model based
+  - Bayesian/Probabilistic Machine Learning
 
 我也會說中文（也會看都繁體或簡體中文）。
 
@@ -23,8 +27,6 @@ _(this is a whole wip)_
 
 🌱 I’m currently learning:
 - the JAX stack
-- Training on constrained computational resources, i.e. mobile devices
-- Signal Processing & Signal Detection Theory
 
 💬 Languages I'm speaking and/or learning: 🇩🇪 🇬🇧 🇨🇳 🇹🇼 🇪🇸 / 🇮🇹 
 
