@@ -5,19 +5,20 @@
 I am currently a 🤗 Student Ambassador for TU Darmstadt and Heidelberg University. If you happen to be interested in learning more about the 🤗 ecosystem , need a demo or a tutorial, hit me up via ✉️ or Discord (gdaythisisben#5902).
 
 My research interests can be found at the intersection of Machine Learning and Cognitive Science, where I am particularly interested in:
+
+- Alignment:
+  - Aligning AI systems to human intent and in accordance to human values
+  - Human-AI Collaboration
+  - Multi-Agent Systems and Game Theory
 - Cognition:
-  - How do we humans plan an activity and approach their goal?
-  - How do we learn concepts and be able to abstract these to take on new tasks?
-  - How can we learn a model of the world?
-  - Reverse engineering the mind
-- Common Sense:
-  - How can we leverage multiple senses to create the dark matter of knowledge (implicit knowledge and behaviour)?
-  - Social learning, i.e. morals, ethics and game theory
-- Creativity:
-  - How can a machine assist in creative and artistic tasks?
+  - How do we as humans learn concepts and be able to apply them to new situations?
+  - Perception grounded language
+- Commonsense:
+  - Social, Moral and Physical Commonsense Reasoning
+  - Biases and Social Inequality
 - Machine Learning:
   - Multimodal Machine Learning
-  - Reinforcement Learning, e.g. (cooperative) multi-agent, hierarchical, and model based
+  - Reinforcement Learning
   - Bayesian/Probabilistic Machine Learning
 
 我也會說中文（也會看都繁體或簡體中文）。
@@ -27,8 +28,9 @@ _(this is a whole wip)_
 
 🌱 I’m currently learning:
 - the JAX stack
+- Scene Graphs, Semantic Computer Vision
 
-💬 Languages I'm speaking and/or learning: 🇩🇪 🇬🇧 🇨🇳 🇹🇼 🇪🇸 / 🇮🇹 
+💬 Languages I'm speaking and/or learning: 🇩🇪 🇬🇧 🇨🇳 🇹🇼 🇪🇸
 
 <!--
 **benjaminbeilharz/benjaminbeilharz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
