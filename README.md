@@ -7,7 +7,7 @@ I am currently a 🤗 Student Ambassador for TU Darmstadt and Heidelberg Univers
 My research interests can be found at the intersection of Machine Learning and Cognitive Science, where I am particularly interested in:
 
 - Alignment:
-  - Aligning AI systems to human intent and in accordance to human values
+  - Aligning AI systems to human intent and in accordance with human values
   - Human-AI Collaboration
   - Multi-Agent Systems and Game Theory
 - Cognition:
