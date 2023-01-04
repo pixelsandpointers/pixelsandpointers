@@ -27,7 +27,7 @@ _(this is a whole wip)_
 不好意思，目前我覺得這個段做不完。我請你等一下，我真的想繼續寫，但是現在我沒有時間。
 
 🌱 I’m currently learning:
-- the JAX stack
+- CGI
 - Computer vision from scratch
 
 💬 Languages I'm speaking and/or learning: 🇩🇪 🇬🇧 🇨🇳 🇹🇼 🇪🇸
