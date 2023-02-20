@@ -1,25 +1,13 @@
 ![welcome-bubble](https://user-images.githubusercontent.com/38283585/130285518-4667d2ea-a22c-4b9c-b808-37d2fe439a39.png)
 
-**He/They**::BA Computational Linguistics@Heidelberg University. MSc Cognitive Science@Technical University Darmstadt
+**He/Him**::BA Computational Linguistics@Heidelberg University. MSc Cognitive Science@Technical University Darmstadt
 
-I am currently a 🤗 Student Ambassador for TU Darmstadt and Heidelberg University. If you happen to be interested in learning more about the 🤗 ecosystem , need a demo or a tutorial, hit me up via ✉️ or Discord (gdaythisisben#5902).
+✨News: I have been accepted for an exchange semester this fall at National Taiwan University 🥳
 
-My research interests can be found at the intersection of Machine Learning and Cognitive Science, where I am particularly interested in:
+I was a 🤗 Student Ambassador for TU Darmstadt and Heidelberg University. If you still happen to be interested in learning more about the 🤗 ecosystem , need a demo or a tutorial, hit me up via ✉️ or Discord (gdaythisisben#5902).
 
-- Alignment:
-  - Aligning AI systems to human intent and in accordance with human values (RLHF!)
-  - Human-AI Collaboration
-  - Multi-Agent Systems and Game Theory
-- Cognition:
-  - How do we as humans learn concepts and be able to apply them to new situations?
-  - Perception grounded language
-- Commonsense:
-  - Social, Moral and Physical Commonsense Reasoning
-  - Biases and Social Inequality
-- Machine Learning:
-  - Multimodal Machine Learning
-  - Reinforcement Learning
-  - Bayesian/Probabilistic Machine Learning
+After a degree in NLP I am now mainly working on extending the fundaments and learning about visual systems.
+Therefore I am currently taking courses on *human perception, computer graphics and computer vision* to dive deeper into the field of rendering and all its fields.
 
 我也會說中文（也會看都繁體或簡體中文）。
 
@@ -27,8 +15,9 @@ _(this is a whole wip)_
 不好意思，目前我覺得這個段做不完。我請你等一下，我真的想繼續寫，但是現在我沒有時間。
 
 🌱 I’m currently learning:
-- CGI
-- Computer vision from scratch
+- Computer Vision
+- the GPU Pipeline
+- C++
 
 💬 Languages I'm speaking and/or learning: 🇩🇪 🇬🇧 🇨🇳 🇹🇼 🇪🇸
 
