@@ -7,7 +7,7 @@
 I was a 🤗 Student Ambassador for TU Darmstadt and Heidelberg University. If you still happen to be interested in learning more about the 🤗 ecosystem , need a demo or a tutorial, hit me up via ✉️ or Discord (gdaythisisben#5902).
 
 After a degree in NLP I am now mainly working on extending the fundaments and learning about visual systems.
-Therefore I am currently taking courses on *human perception, computer graphics and computer vision* to dive deeper into the field of rendering and all its fields.
+Currently, I am taking courses on *human perception, computer graphics and computer vision* to dive deeper into the field of graphics, rendering and adjacent fields.
 
 我也會說中文（也會看都繁體或簡體中文）。
 
