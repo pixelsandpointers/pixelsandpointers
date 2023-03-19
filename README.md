@@ -1,6 +1,6 @@
 ![welcome-bubble](https://user-images.githubusercontent.com/38283585/130285518-4667d2ea-a22c-4b9c-b808-37d2fe439a39.png)
 
-**He/Him**::BA Computational Linguistics@Heidelberg University. MSc Cognitive Science@Technical University Darmstadt
+**He/Him**::BA Computational Linguistics@Heidelberg University. MSc Cognitive Science/Visual Computing@Technical University Darmstadt (Double Master's)
 
 ✨News: I have been accepted for an exchange semester this fall at National Taiwan University 🥳
 
@@ -14,10 +14,12 @@ Currently, I am taking courses on *human perception, computer graphics and compu
 _(this is a whole wip)_  
 不好意思，目前我覺得這個段做不完。我請你等一下，我真的想繼續寫，但是現在我沒有時間。
 
+<!--
 🌱 I’m currently learning:
 - Computer Vision
 - the GPU Pipeline
 - C++
+-->
 
 💬 Languages I'm speaking and/or learning: 🇩🇪 🇬🇧 🇨🇳 🇹🇼 🇪🇸
 
