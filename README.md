@@ -14,21 +14,17 @@ I am primarily interested in:
 - Real-time Rendering
 - Inverse/Neural Rendering
 - Game Engines
-- Technical Direction: Lighting and Look Dev
-
-<!--
-🌱 I’m currently learning:
-- Inverse Rendering
-- the GPU Pipeline
-- C++
-- OpenGL
--->
+- Technical Direction: Lighting, Look Dev and Compositing
 
 💬 Languages I'm speaking and/or learning: 🇩🇪 🇬🇧 🇨🇳 🇹🇼 🇪🇸
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/benjaminbeilharz">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benjaminbeilharz&theme=vue" />
+  </a>
+ <details>
+  <a href="https://github.com/benjaminbeilharz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminbeilharz&langs_count=5&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,plsql,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=vue" />
   </a>
   <a href="https://github.com/benjaminbeilharz">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=benjaminbeilharz&hide_border=true&card_width=338&theme=vue" />
@@ -36,7 +32,6 @@ I am primarily interested in:
   <a href="https://github.com/benjaminbeilharz">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=benjaminbeilharz&theme=vue" />
   </a>
-  <a href="https://github.com/benjaminbeilharz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminbeilharz&langs_count=5&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,plsql,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=vue" />
-  </a>
-</p>
+  
+ </details>
+</div>
