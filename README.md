@@ -1,7 +1,8 @@
 ![welcome-bubble](https://user-images.githubusercontent.com/38283585/130285518-4667d2ea-a22c-4b9c-b808-37d2fe439a39.png)
 
-✨News: I have been accepted for an exchange semester this fall at National Taiwan University and have been selected to participate in @ASWF summer learning program 🥳
-  **He/Him**::BA Computational Linguistics@Heidelberg University. MSc Visual Computing @ Technical University of Darmstadt
+✨News: I have been accepted for an exchange semester this fall at National Taiwan University and have been selected to participate in @ASWF summer learning program 🥳  
+
+I hold a Bachelor's degree in Computational Linguistics from Heidelberg University and currently pursue a Master's degree in Visual Computing at Technical University of Darmstadt. 
 
 I was a 🤗 Student Ambassador for TU Darmstadt and Heidelberg University. 
 Currently I work for the Deutsche Bahn AG (German Railway company) as a Machine Learning Engineer,
