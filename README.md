@@ -29,9 +29,9 @@ After a degree in NLP I am now mainly working on extending the fundaments and le
 I am primarily interested in:
 - Physical-based Rendering
 - Real-time Rendering
-- Inverse/Neural Rendering
-- Game Engines
-- Technical Direction: Lighting, Look Dev and Compositing
+- Inverse Rendering
+- GPGPU
+- Computer Vision
 
 💬 Languages I'm speaking and/or learning: 🇩🇪 🇬🇧 🇨🇳 🇹🇼 🇪🇸
 
