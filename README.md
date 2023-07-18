@@ -21,17 +21,18 @@
 I hold a Bachelor's degree in Computational Linguistics from Heidelberg University and currently pursue a Master's degree in Visual Computing at Technical University of Darmstadt. 
 
 I was a 🤗 Student Ambassador for TU Darmstadt and Heidelberg University. 
-Currently I work for the Deutsche Bahn AG (German Railway company) as a Machine Learning Engineer,
+Currently, I work for the Deutsche Bahn AG (German Railway company) as a Machine Learning Engineer
 and have worked for three years at SAP as a UX in-house consultant during my studies.
 
-After a degree in NLP I am now mainly working on extending the fundaments and learning about computer graphics.
+After a degree in NLP, I am now mainly working on extending the fundaments and learning about computer graphics.
 
 I am primarily interested in:
-- Physical-based Rendering
-- Real-time Rendering
+- Physical-based Rendering (offline + RT)
 - Inverse Rendering
-- GPGPU
+- Material Appearance Modeling (BxDF)
 - Computer Vision
+- GPGPU
+
 
 💬 Languages I'm speaking and/or learning: 🇩🇪 🇬🇧 🇨🇳 🇹🇼 🇪🇸
 
