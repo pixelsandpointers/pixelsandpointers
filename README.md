@@ -18,22 +18,21 @@
 
 ✨News: I have been accepted for an exchange semester this fall at National Taiwan University and have been selected to participate in the ASWF's summer learning program 🥳  
 
-I hold a Bachelor's degree in Computational Linguistics from Heidelberg University and currently pursuing a Master's degree in Visual Computing at the Technical University of Darmstadt. 
+I hold a Bachelor's degree in Computational Linguistics from Heidelberg University and am currently pursuing a Master's degree in Visual Computing at the Technical University of Darmstadt. 
 
 I was a 🤗 Student Ambassador for TU Darmstadt and Heidelberg University. 
 I work for the Deutsche Bahn AG (German Railways company) as a Machine Learning Engineer
 and have worked for three years at SAP as a UX in-house consultant during my studies.
 
-After a degree in NLP, I am now mainly working on extending the fundaments and learning about computer graphics.
+After a degree in NLP, I am mainly working on extending the fundamentals and learning about computer graphics.
 
 I am primarily interested in:
 - Physical-based Rendering (offline + RT)
 - Inverse Rendering
-- Material Appearance Modeling (BxDFs)
-- Computer Vision
+- Computer Vision (for 3D)
 - GPGPU
 
 
-💬 Languages I'm speaking and/or learning: 🇩🇪 🇬🇧 🇨🇳 🇹🇼 🇪🇸
+💬 Languages I'm speaking and learning: 🇩🇪 🇬🇧 🇨🇳 🇹🇼 🇪🇸
 
 
