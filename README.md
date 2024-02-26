@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/pixelsandpointers">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pixelslandpointers&theme=tokyonight"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pixelsandpointers&theme=tokyonight"/>
   </a>
  <details>
   <a href="https://github.com/pixelsandpointers">
@@ -15,24 +15,21 @@
   
  </details>
 </div>
+G'day this is Ben!  
 
-✨News: I have been accepted for an exchange semester this fall at National Taiwan University and have been selected to participate in the ASWF's summer learning program 🥳  
+Some facts about me:  
+- before studying computer graphics and (human) vision, I earned a Bachelor's degree in Computational Linguistics focusing on social/moral commonsense knowledge induced large language models
+- I have been elected to be part of the Academy Software Foundation's Summer Learning Program and be among Hugging Face's first student ambassadors
+- I love all kinds of artistic activities, from photography to sketching, painting, and cooking
+- and I seem to have a worrisome tendency to learn new (programming) languages.
 
-I hold a Bachelor's degree in Computational Linguistics from Heidelberg University and am currently pursuing a Master's degree in Visual Computing at the Technical University of Darmstadt. 
-
-I was a 🤗 Student Ambassador for TU Darmstadt and Heidelberg University. 
-I work for the Deutsche Bahn AG (German Railways company) as a Machine Learning Engineer
-and have worked for three years at SAP as a UX in-house consultant during my studies.
-
-After a degree in NLP, I am mainly working on extending the fundamentals and learning about computer graphics.
-
-I am primarily interested in:
-- Physical-based Rendering (offline + RT)
-- Inverse Rendering
-- Computer Vision (for 3D)
-- GPGPU
+Nowadays I am primarily interested in:
+- Physically-based rendering
+- Inverse rendering (physically-based and neural)
+- Material appearance modeling
+- GPGPU/HPC
+- and Vision Science
 
 
-💬 Languages I'm speaking and learning: 🇩🇪 🇬🇧 🇨🇳 🇹🇼 🇪🇸
-
+💬 Languages I'm speaking and learning: 🇩🇪 🇬🇧 🇪🇸 🇨🇳 🇯🇵
 
