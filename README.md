@@ -24,9 +24,9 @@ Some facts about me:
 - and I seem to have a worrisome tendency to learn new (programming) languages.
 
 Nowadays I am primarily interested in:
-- Physically-based rendering
-- Inverse rendering (physically-based and neural)
+- Physically-based (inverse) rendering
 - Material appearance modeling
+- Deep Learning for CG
 - GPGPU/HPC
 - and Vision Science
 
