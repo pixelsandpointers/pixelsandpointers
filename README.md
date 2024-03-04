@@ -21,13 +21,13 @@ Some facts about me:
 - before studying computer graphics and (human) vision, I earned a Bachelor's degree in Computational Linguistics focusing on social/moral commonsense knowledge induced large language models
 - I have been elected to be part of the Academy Software Foundation's Summer Learning Program and be among Hugging Face's first student ambassadors
 - I love all kinds of artistic activities, from photography to sketching, painting, and cooking
-- and I seem to have a worrisome tendency to learn new (programming) languages.
+- and I have a worrisome tendency to learn new (programming) languages.
 
-Nowadays I am primarily interested in:
+Nowadays I am primarily interested in the following:
 - Physically-based (inverse) rendering
 - Material appearance modeling
 - Deep Learning for CG
-- GPGPU/HPC
+- gpgpu, hpc, compilers and languages
 - and Vision Science
 
 
