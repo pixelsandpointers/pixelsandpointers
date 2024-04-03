@@ -18,17 +18,18 @@
 G'day this is Ben!  
 
 Some facts about me:  
-- before studying computer graphics and (human) vision, I earned a Bachelor's degree in Computational Linguistics focusing on social/moral commonsense knowledge induced large language models
-- I have been elected to be part of the Academy Software Foundation's Summer Learning Program and be among Hugging Face's first student ambassadors
-- literate programming should be more mainstream.
-- and I have a worrisome tendency to learn new (programming) languages.
+- before studying computer graphics and (human) vision, I earned a Bachelor's degree in Computational Linguistics focusing on social/moral commonsense knowledge induced large language models, but when
+- Avatar 2 is the reason I decided to switch to the field of computer graphics and ultimately want to pursue a career in graphics/VFX,
+- this is how I discovered the Academy Software Foundation and became a part of their Summer Learning Program where I learned more about production rendering, PBR, look development, lighting, and standards like MaterialX, and USD among many others.
+- Literate programming should be more mainstream and LISP is one of the most beautiful languages to exist on this planet (even though many argue its extraterrestrial existence).
+- I love all things creativity: photography, sketching and painting, setting up nice lighting rigs in Katana and Houdini, making materials pop.
 
-Nowadays I am primarily interested in the following:
-- Physically-based (inverse) rendering
-- Material appearance modeling
-- Deep Learning for CG
-- gpgpu, systems programming, compilers and languages
-- and Vision Science
+Some of my research interests:
+- Physically-based rendering, in production as well as in research settings (where I am more or less interested in inverse rendering),
+- neural graphics, i.e. how we can use deep learning to amplify the visual quality and reduce overall computational complexity (how can we support artists and save one tree at a time),
+- material appearance modeling (because I want to make them pop),
+- systems and parallel programming (because efficiency is key),
+- and a profound interest in how we perceive our wonderful world.
 
 
 💬 Languages I'm speaking and learning: 🇩🇪 🇬🇧 🇪🇸 🇨🇳 🇯🇵
