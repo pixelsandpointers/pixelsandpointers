@@ -12,6 +12,10 @@
   <a href="https://github.com/pixelsandpointers">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pixelsandpointers&theme=tokyonight" />
   </a>
+
+  <a href="https://github.com/pixelsandpointers">
+    <img src="https://github-readme-stats.vercel.app/api?username=pixelsandpointers&show_icons=true&theme=tokyonight"/>
+  </a>
   
  </details>
 </div>
