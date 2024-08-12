@@ -24,7 +24,7 @@
   <ul>
     <li>Physically-based rendering, in production as well as in research settings (where I am more or less interested in inverse rendering)</li>
     <li>Human and Machine Perception</li>
-    <li>Simulation</li>
+    <li>Simulations</li>
     <li>Assistive, collaborative and robotics for the environment</li>
     <li>Deep (Reinforcement) Learning</li>
   </ul>
