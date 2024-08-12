@@ -19,14 +19,18 @@
   
  </details>
 </div>
-G'day this is Ben!  
+<center>
+  <p>G'day this is Ben! Here are some of my interests:</p>
+  <ul>
+    <li>Physically-based rendering, in production as well as in research settings (where I am more or less interested in inverse rendering)</li>
+    <li>Human and Machine Perception</li>
+    <li>Simulation</li>
+    <li>Assistive, collaborative and robotics for the environment</li>
+    <li>Deep (Reinforcement) Learning</li>
+  </ul>
+</center>
+<div align="center">💬 Feel free to chat with me in: 🇩🇪 🇬🇧 🇪🇸 🇨🇳 </div>
+<div align="center">Kei te ako ahau ki te korero i te maori :)</div>
 
-Here are some of my interests:
-- Physically-based rendering, in production as well as in research settings (where I am more or less interested in inverse rendering),
-- human and machine perception
-- deep learning and robotics for sustainability
-- game engines and simulation
-- reinforcement learning
 
-💬 Feel free to chat with me in: 🇩🇪 🇬🇧 🇪🇸 🇨🇳 
 
