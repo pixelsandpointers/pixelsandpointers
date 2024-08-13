@@ -4,7 +4,7 @@
   </a>
  <details>
 <a href="https://github.com/benjaminbeilharz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminbeilharz&size_weight=0.5&count_weight=0.5&exclude_repo=&hide=roff,jupyter%20notebook,vim%20script,cmake,makefile,batchfile,plsql,emacs%20lisp,css,html&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminbeilharz&size_weight=0.5&count_weight=0.5&exclude_repo=&hide=roff,jupyter%20notebook,emacs%20lisp,vim%20script,cmake,makefile,batchfile,plsql,css,html,yasnippet&theme=tokyonight" />
   </a>
   <a href="https://github.com/benjaminbeilharz">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=benjaminbeilharz&hide_border=true&card_width=338&theme=tokyonight" />
