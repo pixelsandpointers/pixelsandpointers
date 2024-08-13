@@ -3,8 +3,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benjaminbeilharz&theme=tokyonight"/>
   </a>
  <details>
-  <a href="https://github.com/benjaminbeilharz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminbeilharz&size_weight=0.5&count_weight=0.5&exclude_repo=&hide=vim%20script,cmake,makefile,batchfile,plsql,css,html&theme=tokyonight" />
+<a href="https://github.com/benjaminbeilharz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminbeilharz&size_weight=0.5&count_weight=0.5&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,plsql,emacs%20lisp,css,html&theme=tokyonight" />
   </a>
   <a href="https://github.com/benjaminbeilharz">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=benjaminbeilharz&hide_border=true&card_width=338&theme=tokyonight" />
