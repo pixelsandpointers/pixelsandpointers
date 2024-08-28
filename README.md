@@ -22,11 +22,10 @@
 <center>
   <p>G'day this is Ben! Here are some of my interests:</p>
   <ul>
-    <li>Physically-based rendering, in production as well as in research settings (where I am more or less interested in inverse rendering)</li>
+    <li>Physically-based rendering, in production as well as in research settings (inverse rendering)</li>
     <li>Human and Machine Perception</li>
     <li>Simulations</li>
-    <li>Assistive, collaborative and robotics for the environment</li>
-    <li>Deep (Reinforcement) Learning</li>
+    <li>Hacking on new realities</li>
   </ul>
 </center>
 <div align="center">💬 Feel free to chat with me in: 🇩🇪 🇬🇧 🇪🇸 🇨🇳 </div>
