@@ -22,10 +22,9 @@
 <center>
   <p>G'day this is Ben! Here are some of my interests:</p>
   <ul>
-    <li>Physically-based rendering, in production as well as in research settings (inverse rendering)</li>
-    <li>Human and Machine Perception</li>
-    <li>Simulations</li>
-    <li>Hacking on new realities</li>
+    <li>Production and Differentiable Rendering</li>
+    <li>Vision Science</li>
+    <li>Technical Direction</li>
   </ul>
 </center>
 <div align="center">💬 Feel free to chat with me in: 🇩🇪 🇬🇧 🇪🇸 🇨🇳 </div>
