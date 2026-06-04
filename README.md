@@ -1,7 +1,8 @@
 ## G'day! This is Ben 👋
 
 PhD candidate at TU Darmstadt's [Perception Lab](https://github.com/ag-perception-wallis-lab).  
-— *physics based ∂ rendering and material appearance modeling for questions in vision science. I also like to dabble in simulation and PCG.*  
+— *physics based ∂ rendering and material appearance modeling for questions in vision science.*  
+I also like to dabble in simulation and PCG.  
 
 > *Me experiencing Wētā's Avatar:*  
 ![Cat being flabbergasted](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZnbTh4anowaDl2cXZiMGRmaWd0Ymgxc3g1NGtxZHh3bG5wemJwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cdkk6wFFqisTe/giphy.gif)  
