@@ -6,7 +6,7 @@ PhD candidate at TU Darmstadt's [Perception Lab](https://github.com/ag-perceptio
 > *Me experiencing Wētā's Avatar:*  
 ![Cat being flabbergasted](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZnbTh4anowaDl2cXZiMGRmaWd0Ymgxc3g1NGtxZHh3bG5wemJwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cdkk6wFFqisTe/giphy.gif)  
 > *I want to do this thing called rendering?!*  
-> Thanks Wētā, for the wakeup call. And someday I will intern with you.
+> Thanks Wētā for the wakeup call. And someday I will intern with you.
 
 <p align="center">
   <a href="https://ben.graphics">🌐 ben.graphics</a>
