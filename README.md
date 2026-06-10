@@ -47,4 +47,5 @@ I also like to dabble in simulation and PCG.
 |---|---|---|
 | [**slang.nvim**](https://github.com/pixelsandpointers/slang.nvim) | Lua | Neovim plugin for the Slang shading language: fixes `slang-synth://` LSP navigation, go-to-definition into the core library, Tree-sitter-filtered search. |
 | [**mitsuba-scene-description**](https://github.com/pixelsandpointers/mitsuba-scene-description) | Python · Mitsuba 3 | Automatic creation of a Python scene description for Mitsuba3 plugins and scene format. |
+| [**mitsuba-blender**](https://github.com/pixelsandpointers/mitsuba-blender) | Python · Blender | Updated and maintained Blender plugin for Blender 5.x | 
 | [**pdfdiff**](https://github.com/pixelsandpointers/pdfdiff) | Rust · LaTeX | A diffing tool for LaTeX PDFs. Useful if you want to automatically mark up insertions and deletions in files. A small, but useful toy project in Rust. |
