@@ -37,7 +37,7 @@ I also like to dabble in simulation and PCG.
 ### Backlog Projects
 | Project | Stack | Notes |
 |---|---|---|
-| **bondo** | C++ · Zig · C | My personal spectral renderer. Currently being ported to Zig. |
+| **bondo** | C++ · Zig · C | My personal spectral renderer. |
 | **hdbridge** | C++ · C · Rust · Zig | A general v1.xx Hydra delegate to bind against using the C ABI. | 
 | **bxdf** | Python · C++ · Mitsuba 3 | Re-implementations of (neural) material models with plugins in Mitsuba 3. |
 
