@@ -32,7 +32,6 @@ I also like to dabble in simulation and PCG.
 | [**OpenUSD**](https://github.com/PixarAnimationStudios/OpenUSD) |  The scene description to rule them all! |
 | [**Mitsuba3**](https://github.com/mitsuba-renderer/mitsuba3) |  The renderer of choice facilitating my research. I try to give back by contributing to the ecosystem. |
 | [**Neovim**](https://github.com/neovim/neovim) |  I cannot stress how many times I built my config from scratch just to make it leaner. Tools tweaked to work for a person are just better than taking a solution that tries to fit everyone. |
-| [**Zig**](https://codeberg.org/ziglang/zig) | This is fine. 🔥 |
 
 
 ### Backlog Projects
@@ -45,7 +44,6 @@ I also like to dabble in simulation and PCG.
 ### Open Source
 | Project | Stack | Notes |
 |---|---|---|
-| [**bondo-rhi**](https://github.com/pixelsandpointers/bondo-rhi) | Zig · Python | A render hardware interface for Vulkan and Metal written with Zig. Also, a Metal bindings generator. |
 | [**slang.nvim**](https://github.com/pixelsandpointers/slang.nvim) | Lua | Neovim plugin for the Slang shading language: fixes `slang-synth://` LSP navigation, go-to-definition into the core library, Tree-sitter-filtered search. |
 | [**mitsuba-scene-description**](https://github.com/pixelsandpointers/mitsuba-scene-description) | Python · Mitsuba 3 | Automatic creation of a Python scene description for Mitsuba3 plugins and scene format. |
 | [**mitsuba-blender**](https://github.com/pixelsandpointers/mitsuba-blender) | Python · Blender | Updated and maintained Blender plugin for Blender 5.x | 
