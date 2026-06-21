@@ -31,6 +31,7 @@ I also like to dabble in simulation and PCG.
 | [**MaterialX**](https://github.com/AcademySoftwareFoundation/MaterialX) |  Bread and butter if you want to author nice materials. I contributed to the graph editor and shader conversion, and if time allows. |
 | [**OpenUSD**](https://github.com/PixarAnimationStudios/OpenUSD) |  The scene description to rule them all! |
 | [**Mitsuba3**](https://github.com/mitsuba-renderer/mitsuba3) |  The renderer of choice facilitating my research. I try to give back by contributing to the ecosystem. |
+| [**Slang**](https://github.com/shader-slang/slang) | Pretty cool and modern shading language. If I need to write shaders, this is it. | 
 | [**Neovim**](https://github.com/neovim/neovim) |  I cannot stress how many times I built my config from scratch just to make it leaner. Tools tweaked to work for a person are just better than taking a solution that tries to fit everyone. |
 
 
