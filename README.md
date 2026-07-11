@@ -33,7 +33,9 @@ I also like to dabble in simulation and PCG.
 ### Backlog Projects
 | Project | Stack | Notes |
 |---|---|---|
-| **bondo** | C++ | My personal renderer and a playground for rendering. |
+| **bondo** | C++ | My personal PBR: Rasterisation, Hybrid Rasterisation + Ray or Path Tracing, and Offline Spectral PBR. |
+| **bondo-rhi** | C++ · Vulkan · Slang · Metal | A render hardware interface for Vulkan and Metal. |
+| **bondo-rtx** | C++ · Vulkan · Slang · Metal | A port of Nvidia's rtxpt implementing ReSTIR-DI/GI, SHaRC and NRC. |
 | **hdbridge** | C++ · C · Rust · Zig | A general v1.xx Hydra delegate to bind against using the C ABI. | 
 | **bxdf** | Python · C++ · Mitsuba 3 | A package to facilitate neural materials and shading research and implementations. |
 
