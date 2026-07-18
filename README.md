@@ -2,7 +2,8 @@
 
 PhD candidate at TU Darmstadt's [Perception Lab](https://github.com/ag-perception-wallis-lab).  
 — *physics based ∂ rendering and material appearance modeling for questions in vision science.*  
-I also like to dabble in simulation and PCG.  
+
+> Currently building my own graphics stack.
 
 <p align="center">
   <a href="https://ben.graphics">🌐 ben.graphics</a>
